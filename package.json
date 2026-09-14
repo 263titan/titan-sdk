@@ -1,0 +1,28 @@
+{
+    "name":  "@titan/sdk",
+    "version":  "0.1.0",
+    "description":  "JavaScript/TypeScript SDK for Titan Production Suite",
+    "main":  "dist/index.js",
+    "types":  "dist/index.d.ts",
+    "type":  "module",
+    "files":  [
+                  "dist",
+                  "README.md"
+              ],
+    "scripts":  {
+                    "build":  "tsc",
+                    "typecheck":  "tsc --noEmit"
+                },
+    "keywords":  [
+                     "print",
+                     "cut",
+                     "production",
+                     "icc",
+                     "color",
+                     "compliance"
+                 ],
+    "private":  false,
+    "devDependencies":  {
+                            "typescript":  "~5.8.3"
+                        }
+}
