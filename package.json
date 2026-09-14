@@ -1,10 +1,1 @@
-{
-  "name": "titan-sdk",
-  "private": true,
-  "workspaces": ["packages/*"],
-  "scripts": {
-    "build": "pnpm -r --filter ... run build",
-    "test": "pnpm -r --filter ... run test",
-    "lint": "pnpm -r --filter ... run lint"
-  }
-}
+{"name":"titan-sdk","private":true,"workspaces":["packages/*"],"scripts":{"build":"pnpm -r run build","test":"pnpm -r run test","lint":"pnpm -r run lint"},"devDependencies":{"typescript":"~5.8.3"}}
