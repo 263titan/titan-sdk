@@ -1,5 +1,5 @@
 {
-    "name":  "@titan/sdk",
+    "name":  "@titan-sdk/client",
     "version":  "0.1.0",
     "description":  "JavaScript/TypeScript SDK for Titan Production Suite",
     "main":  "dist/index.js",

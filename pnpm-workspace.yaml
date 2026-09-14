@@ -1,0 +1,6 @@
+packages:
+  - "packages/*"
+  - "titan-sdk-rs"
+  - "titan-sdk-python"
+strictPeerDependencies: false
+shamefullyHoist: false

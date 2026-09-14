@@ -1,0 +1,1 @@
+[package]\nname = "titan-sdk-rs"\nversion = "0.1.0"\nedition = "2021"\n\n[dependencies]\ntonic = "0.12"\nprost = "0.12"\ntokio = { version = "1", features = ["full"] }\n
