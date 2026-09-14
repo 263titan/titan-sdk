@@ -1,1 +1,1 @@
-{"name":"@titan-sdk/telemetry","version":"0.1.0","private":false,"main":"./src/index.ts","types":"./src/index.ts","dependencies":{},"devDependencies":{"typescript":"~5.8.3"}}
+{"name":"@titan-sdk/telemetry","version":"0.1.0","private":false,"main":"./src/index.ts","types":"./src/index.ts","dependencies":{},"devDependencies":{"typescript":"~5.8.3"},"scripts":{"build":"echo build","test":"echo test","lint":"echo lint"}}
